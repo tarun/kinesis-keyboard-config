@@ -4,12 +4,14 @@
 Just started on it. Having trouble mapping backspace to cmd key.
 
 # Scenario
-* Just got a Kinesis Advantage 2 QD Keyboard
+* Just got a _Kinesis Advantage 2 QD_ Keyboard
 * Configuring for use with `macOS`
 * Minimize use of Right ring and little fingers
 * Optimize for programming/bash commands
-* just _qwerty_ for now, will try _dvorak_ in future
-* Everybody has their personal preferences - this is just a guide
+* [Spectacle](https://www.spectacleapp.com/) commands for window resizing
+* just _qwerty_ layout for now, will try _dvorak_ in future
+* Everybody has their personal preferences
+ * this is just me sharing stuff, hopefully useful to others...
 
 # Files & Directories
 ```
@@ -32,3 +34,8 @@ backup
 `./pull.sh`
 ## Push updates to Keyboard
 `./push.sh`
+
+# Other Related Projects
+* https://github.com/dietsche/kinesis-advantage-2
+* https://github.com/nicholasknight/adv2keyboard
+* https://github.com/damko/xkb_kinesis_advantage_dvorak_layout
